@@ -13,3 +13,11 @@
   * Data Visualisation
   * Data Scientist
   * Machine Learning
+  * SVM Algorithm
+  
+# Librearies:
+ * Seaborn
+ * Numpy
+ * Pandas
+ * Sklearn
+ 
